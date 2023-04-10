@@ -1,2 +1,1 @@
-# RepoHenry
-Repositorio de prueba modulo 2 Henry
+Este proyecto es una prueba de como crear un repositorio y clonarlo por medio de GITHUB
